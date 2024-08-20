@@ -3,7 +3,7 @@ export const UserData = {
   about:
     "I'm a MERN stack developer who learned everything on my own. I specialize in creating dynamic, accessible websites and applications that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, Next.js, Redux, TypeScript, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at using Docker for containerization, developing apps using mini program studio frameworks, and exceeding client expectations with my high-caliber solutions. Additionally, I have experience with design tools like Figma and Canva to enhance UI/UX design.",
   resumeUrl:
-    "https://drive.google.com/file/d/1snXtm9uSSpGHSGbCgs8gM64m2HtuGETg/view?usp=drive_link",
+    "https://drive.google.com/file/d/1pkht2FXA298FsjGFw1WmJ62KFn_cqHFt/view?usp=sharing",
   FooterLink: "https://www.linkedin.com/in/rafiqdevhub/",
   socialMedia: [
     {
