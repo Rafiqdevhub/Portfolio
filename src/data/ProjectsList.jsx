@@ -38,6 +38,7 @@ export const ProjectsList = {
       technologies: ["React Js", "Tailwind CSS", "Git", "GitHub"],
     },
     {
+<<<<<<< HEAD
       name: "Voting API",
       description:
         " The Voting API where users can create polls, vote on polls, and view the results of polls. Built with express and MongoDB, this app provides a seamless experience for users. ",
@@ -60,6 +61,12 @@ export const ProjectsList = {
         "Git",
         "GitHub",
       ],
+=======
+      name: "Blog Hub App",
+      description:
+        "Blog Hub is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that provides a platform for users to create, read, update, and delete blog posts. It features user authentication, a rich text editor for post creation, comment functionality, and a responsive design for seamless use across devices. The app showcases the power of the MERN stack in building modern, scalable web applications.",
+      technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Redux", "JWT", "Tailwind CSS"],
+>>>>>>> 00972c5b2adbfc6767a564f0a9f781bcda07b666
     },
   ],
 };
