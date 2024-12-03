@@ -18,9 +18,9 @@ import git from "../Assets/svg/skills/git.svg";
 import graphql from "../Assets/svg/skills/graphql.svg";
 import materialui from "../Assets/svg/skills/materialui.svg";
 import nodejs from "../Assets/svg/skills/nodejs.svg";
+import express from "../Assets/svg/skills/express.svg";
 import nginx from "../Assets/svg/skills/nginx.svg";
 import strapi from "../Assets/svg/skills/strapi.svg";
-
 import figma from "../Assets/svg/skills/figma.svg";
 import markdown from "../Assets/svg/skills/markdown.svg";
 import canva from "../Assets/svg/skills/canva.svg";
@@ -78,6 +78,8 @@ export const skillsImage = (skill) => {
       return canva;
     case "nodejs":
       return nodejs;
+    case "express":
+      return express;
     case "ubuntu":
       return ubuntu;
     default:
