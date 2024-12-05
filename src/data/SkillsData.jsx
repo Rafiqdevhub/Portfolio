@@ -7,6 +7,7 @@ export const skillsData = [
   "Next JS",
   "ViteJS",
   "Git",
+  "Github",
   "MaterialUI",
   "Bootstrap",
   "Tailwind",
@@ -21,5 +22,5 @@ export const skillsData = [
   "MySQL",
   "PostgreSQL",
   "Nginx",
-  "Strapi",
+  "Stripe",
 ];

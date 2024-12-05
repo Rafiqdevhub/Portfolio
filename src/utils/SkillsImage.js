@@ -15,12 +15,13 @@ import aws from "../Assets/svg/skills/aws.svg";
 import ubuntu from "../Assets/svg/skills/ubuntu.svg";
 import firebase from "../Assets/svg/skills/firebase.svg";
 import git from "../Assets/svg/skills/git.svg";
+import gitHub from "../Assets/svg/skills/github.svg";
 import graphql from "../Assets/svg/skills/graphql.svg";
 import materialui from "../Assets/svg/skills/materialui.svg";
 import nodejs from "../Assets/svg/skills/nodejs.svg";
 import express from "../Assets/svg/skills/express.svg";
 import nginx from "../Assets/svg/skills/nginx.svg";
-import strapi from "../Assets/svg/skills/strapi.svg";
+import stripe from "../Assets/svg/skills/stripe.svg";
 import figma from "../Assets/svg/skills/figma.svg";
 import markdown from "../Assets/svg/skills/markdown.svg";
 import canva from "../Assets/svg/skills/canva.svg";
@@ -56,19 +57,20 @@ export const skillsImage = (skill) => {
       return vitejs;
     case "aws":
       return aws;
-
     case "firebase":
       return firebase;
     case "git":
       return git;
+    case "github":
+      return gitHub;
     case "graphql":
       return graphql;
     case "materialui":
       return materialui;
     case "nginx":
       return nginx;
-    case "strapi":
-      return strapi;
+    case "stripe":
+      return stripe;
     case "markdown":
       return markdown;
     case "microsoft office":

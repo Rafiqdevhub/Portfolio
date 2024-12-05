@@ -15,7 +15,7 @@ function Footer() {
           window.open(FooterLink);
         }}
       >
-        Rafiqdeveloper
+        Muhammad Rafiq
       </div>
     </div>
   );
