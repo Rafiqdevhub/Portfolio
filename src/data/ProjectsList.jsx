@@ -19,9 +19,9 @@ export const ProjectsList = {
       technologies: ["Next JS", "tailwindcss", "typescript"],
     },
     {
-      name: "E_Book Store",
+      name: "Ebook Store",
       description:
-        "E_Book Store is a modern e-commerce website that allows users to browse and purchase e-books. Built with React.js, typescript this app provides a seamless shopping experience for users. The app is responsive and visually appealing, making it easy to use on any device.",
+        "Ebook Store is a modern e-commerce website that allows users to browse and purchase e-books. Built with React.js, typescript this app provides a seamless shopping experience for users. The app is responsive and visually appealing, making it easy to use on any device.",
       technologies: ["React JS", "typescript"],
     },
     {
@@ -52,15 +52,7 @@ export const ProjectsList = {
       name: "Blog Hub App",
       description:
         "Blog Hub is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that provides a platform for users to create, read, update, and delete blog posts. It features user authentication, a rich text editor for post creation, comment functionality, and a responsive design for seamless use across devices. The app showcases the power of the MERN stack in building modern, scalable web applications.",
-      technologies: [
-        "MongoDB",
-        "Express.js",
-        "React.js",
-        "Node.js",
-        "Redux",
-        "JWT",
-        "tailwindcss",
-      ],
+      technologies: ["MongoDB", "Express.js", "React.js", "tailwindcss"],
     },
   ],
 };
