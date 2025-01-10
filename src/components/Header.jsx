@@ -4,7 +4,7 @@ import { CgMenuRight } from "react-icons/cg";
 import { UserData } from "../data/UserData";
 
 const Header = () => {
-  const [isScrolling, setisScrolling] = useState(false);
+  const [isScrolling, setIsScrolling] = useState(false);
   const [activeSection, setActiveSection] = useState(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -14,7 +14,7 @@ const Header = () => {
     const handleScroll = () => {
       const scrollTop = window.scrollY;
       const isCurrentScrolled = scrollTop > 0;
-      setisScrolling(isCurrentScrolled);
+      setIsScrolling(isCurrentScrolled);
     };
 
     window.addEventListener("scroll", handleScroll);
