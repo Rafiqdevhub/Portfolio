@@ -79,5 +79,17 @@ export const ProjectsList = {
         "Appwrite",
       ],
     },
+    {
+      name: "Movie App",
+      description:
+        "The Movie App is a modern, responsive application designed to help users find and watch movies. Built with the latest web technologies, including React.js 19, this app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["React.js 19", "tailwindcss", "Appwrite"],
+    },
+    {
+      name: "Book Store",
+      description:
+        "The Book Store is a modern, responsive application designed with MERN stack to help users find and purchase books. Built with the latest web technologies, including React.js 19, this app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["React.js 19", "tailwindcss", "MongoDB", "Express.js"],
+    },
   ],
 };
