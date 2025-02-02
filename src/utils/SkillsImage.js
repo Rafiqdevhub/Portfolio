@@ -25,6 +25,10 @@ import stripe from "../Assets/svg/skills/stripe.svg";
 import figma from "../Assets/svg/skills/figma.svg";
 import markdown from "../Assets/svg/skills/markdown.svg";
 import canva from "../Assets/svg/skills/canva.svg";
+import python from "../Assets/svg/skills/python.svg";
+import django from "../Assets/svg/skills/django.svg";
+import flask from "../Assets/svg/skills/flask.svg";
+import golang from "../Assets/svg/skills/golang.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -84,6 +88,14 @@ export const skillsImage = (skill) => {
       return express;
     case "ubuntu":
       return ubuntu;
+    case "python":
+      return python;
+    case "django":
+      return django;
+    case "flask":
+      return flask;
+    case "golang":
+      return golang;
     default:
       break;
   }

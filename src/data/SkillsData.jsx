@@ -23,4 +23,8 @@ export const skillsData = [
   "PostgreSQL",
   "Nginx",
   "Stripe",
+  "Python",
+  "Django",
+  "Flask",
+  "golang",
 ];

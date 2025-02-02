@@ -91,5 +91,11 @@ export const ProjectsList = {
         "The Book Store is a modern, responsive application designed with MERN stack to help users find and purchase books. Built with the latest web technologies, including React.js 19, this app provides a seamless and intuitive user experience across all devices.",
       technologies: ["React.js 19", "tailwindcss", "MongoDB", "Express.js"],
     },
+    {
+      name: "Python Weather App",
+      description:
+        "The Python Weather App is a modern, responsive application designed to help users find and view weather information. Built with the latest web technologies, including Python, web framework flask. This app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["Python", "Flask", "Html", "CSS"],
+    },
   ],
 };

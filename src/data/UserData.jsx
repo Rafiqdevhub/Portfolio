@@ -1,7 +1,7 @@
 export const UserData = {
   name: "Muhammad Rafiq",
   about:
-    "A developer who learned everything on my own. I specialize in creating dynamic, accessible websites and applications that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in Html, css, javascript, typescript, node and express. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at using Docker for containerization, developing apps using mini program studio frameworks, and exceeding client expectations with my high-caliber solutions. Additionally, AI explorer,  I have experience with design tools like Figma and Canva to enhance UI/UX design.",
+    "Self-taught developer specializing in scalable, dynamic web applications. Proficient in backend development with Python, Django, and Flask, including RESTful APIs, Express.js, authentication systems, and database-driven apps. Skilled in full-stack development using HTML, CSS, JavaScript, TypeScript, Node.js, and Express.js. Experienced in front-end development with React, Next.js, and React Native for responsive, interactive UIs. Proficient in Git for collaboration and Docker for containerization. Familiar with Mini Program Studio frameworks and AI technologies. Passionate about UI/UX design, using Figma and Canva to create intuitive interfaces. Dedicated to delivering high-performance, scalable solutions that exceed expectations.",
   resumeUrl:
     "https://drive.google.com/file/d/19ceYAQky1Hq0r5qiQ5nxXG3Xjt05JFJd/view?usp=drive_link",
   FooterLink: "https://www.linkedin.com/in/rafiqdevhub/",
@@ -30,6 +30,7 @@ export const UserData = {
   typewriterOptions: {
     strings: [
       "Full Stack Developer(Next.js and typescript enthusiast)",
+      "Python Django and Flask Developer",
       "React Native Developer",
       "AI explorer",
       "Docker Specialist",
