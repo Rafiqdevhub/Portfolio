@@ -97,5 +97,37 @@ export const ProjectsList = {
         "The Python Weather App is a modern, responsive application designed to help users find and view weather information. Built with the latest web technologies, including Python, web framework flask. This app provides a seamless and intuitive user experience across all devices.",
       technologies: ["Python", "Flask", "Html", "CSS"],
     },
+    {
+      name: "Python AI Chatbot",
+      description:
+        "The Python AI Chatbot is a modern, responsive application designed to help users chat with AI. Built with the latest web technologies, including Python, Ollam, Deepseek r1 and Langchain. This app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["Python", "Langchain", "Ollama", "Deepseek r1"],
+    },
+    {
+      name: "Subscription Management System API",
+      description:
+        "The Subscription Management System API is built using Node.js, Express.js, and MongoDB, providing a scalable architecture that includes advanced features such as JWT authentication, database modeling with Mongoose, and automated email reminders. It emphasizes security with advanced rate limiting and bot protection while ensuring efficient error handling and logging mechanisms. The system is also designed to facilitate seamless integration with front-end applications through structured API communication.",
+      technologies: [
+        "Node.js",
+        "Express.js",
+        "Mongodb",
+        "JWT",
+        "Arcject",
+        "Upstash",
+        "Nodemailer",
+      ],
+    },
+    {
+      name: "FastApi",
+      description:
+        "FastAPI is a modern, high-performance web framework for building APIs in Python. It leverages Python's type hints to streamline development and enhance performance. FastAPI is known for its simplicity and efficiency, making it easier to build and deploy APIs quickly.",
+      technologies: ["FastApi", "Uvicorn", "Pydantic"],
+    },
+    {
+      name: "Django React App",
+      description:
+        "The Django React App is a modern, responsive application including Django, React.js, this app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["Django", "PyJWT", "React.js"],
+    },
   ],
 };
