@@ -28,6 +28,7 @@ import canva from "../Assets/svg/skills/canva.svg";
 import python from "../Assets/svg/skills/python.svg";
 import django from "../Assets/svg/skills/django.svg";
 import flask from "../Assets/svg/skills/flask.svg";
+import FastAPI from "../Assets/svg/skills/fastapi.svg";
 import golang from "../Assets/svg/skills/golang.svg";
 
 export const skillsImage = (skill) => {
@@ -94,6 +95,8 @@ export const skillsImage = (skill) => {
       return django;
     case "flask":
       return flask;
+    case "fastapi":
+      return FastAPI;
     case "golang":
       return golang;
     default:
