@@ -80,6 +80,19 @@ export const ProjectsList = {
       ],
     },
     {
+      name: "React Native Movie App",
+      description:
+        "The React Native Movie App is a modern, responsive application designed to help users find and watch movies. Built with the latest web technologies, including React Native, this app provides a seamless and intuitive user experience across all devices.",
+      technologies: [
+        "React Native",
+        "Expo",
+        "Nativewind",
+        "tailwindcss",
+        "Typescript",
+        "Appwrite",
+      ],
+    },
+    {
       name: "Movie App",
       description:
         "The Movie App is a modern, responsive application designed to help users find and watch movies. Built with the latest web technologies, including React.js 19, this app provides a seamless and intuitive user experience across all devices.",
@@ -128,6 +141,31 @@ export const ProjectsList = {
       description:
         "The Django React App is a modern, responsive application including Django, React.js, this app provides a seamless and intuitive user experience across all devices.",
       technologies: ["Django", "PyJWT", "React.js"],
+    },
+    {
+      name: "QR-Code-Generator-for-Google-Maps-Location",
+      description:
+        "The QR Code Generator for Google Maps Location is a simple web application that allows users to generate QR codes for specific Google Maps locations. Built with Python Qrcode, Pillow, this app provides a user-friendly interface for creating and downloading QR codes.",
+      technologies: ["Python", "Qrcode", "Pillow"],
+
+    },
+    {
+      name: "Gemini AI Chatbot",
+      description:
+        "The Gemini AI Chatbot is a modern, responsive application designed to help users chat with AI. Built with the latest web technologies, including Python, Gemini AI, this app provides a seamless and intuitive user experience across all devices.",
+      technologies: ["Python", "Google Gemini API"],
+    },
+    {
+      name: "AI Research Assistant",
+      description:
+        "An intelligent research assistant powered by LangChain and Claude AI that helps generate research papers by gathering information from multiple sources.",
+      technologies: ["Python", "LangChain", "Claude AI"],
+    },
+    {
+      name: "LLM API Deepseek-r1",
+      description:
+        "A powerful API that utilizes the Deepseek r1 model to provide advanced language processing capabilities, enabling developers to integrate sophisticated AI features into their applications.",
+      technologies: ["Python", "FastApi", "Ollama", "Deepseek r1"],
     },
   ],
 };
